@@ -18,9 +18,9 @@
 
 - <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
 
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://user-images.githubusercontent.com/7713399/182621780-e9585c88-e6cd-45a7-8e60-b394d3b23d19.jpg" width="70" height="40" > <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 
-- <img src="https://user-images.githubusercontent.com/7713399/182615335-87a7dcd7-204f-4a8d-8f2f-a1ec27dfdd1c.svg" width="70" height="40" > <img src="https://user-images.githubusercontent.com/7713399/182618368-174bdf84-6ff9-4c3a-990f-749806250470.png"width="120" height="40" >
+- <img src="https://user-images.githubusercontent.com/7713399/182615335-87a7dcd7-204f-4a8d-8f2f-a1ec27dfdd1c.svg" width="70" height="40" > <img src="https://user-images.githubusercontent.com/7713399/182618368-174bdf84-6ff9-4c3a-990f-749806250470.png" width="120" height="40" >
 
 
 **DataBase**
