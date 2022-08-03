@@ -8,6 +8,7 @@
 - 📫 You can conact me on <a href="https://www.linkedin.com/in/ines-attia/">  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 
+![framework-ReactJS](https://user-images.githubusercontent.com/7713399/182624004-5114d5b2-0b31-4deb-9a71-328e2e0ce6ff.png)
 
 <img src="https://github-readme-stats.vercel.app/api?username=wesines&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
@@ -18,7 +19,7 @@
 
 - <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
 
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src= "https://user-images.githubusercontent.com/7713399/182623290-6a9aa7ed-33b0-4968-aeae-41928d30911f.jpg"  width="60" height="70"/>   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+- <img src="https://user-images.githubusercontent.com/7713399/182624004-5114d5b2-0b31-4deb-9a71-328e2e0ce6ff.png"  width="60" height="70"/> <img src= "https://user-images.githubusercontent.com/7713399/182623290-6a9aa7ed-33b0-4968-aeae-41928d30911f.jpg"  width="60" height="70"/>   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 
 - <img src="https://user-images.githubusercontent.com/7713399/182615335-87a7dcd7-204f-4a8d-8f2f-a1ec27dfdd1c.svg" width="70" height="40" >  <img src="https://user-images.githubusercontent.com/7713399/182618368-174bdf84-6ff9-4c3a-990f-749806250470.png" width="100" height="40" >
 
