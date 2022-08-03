@@ -6,7 +6,7 @@
 -  💬 Ask me about **Javacript** , **ReactJs** , **NodeJs** ,  **PHP5** , **Symfony** , **Aws Amazon**
 - ⚡ Fun fact: I master fullstack technologies *front & back*
 - 📫 You can conact me on <a href="https://www.linkedin.com/in/ines-attia/">
-  <img alt="Linkedin" src="(https://user-images.githubusercontent.com/7713399/182616707-58441a24-fc5d-4833-a62a-f55ca4fa75ef.svg" />
+ <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 
 
