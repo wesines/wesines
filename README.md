@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I master fullstack technologies *front & back*
 - 📫 You can conact me on <a href="https://www.linkedin.com/in/ines-attia/">  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
-- <img src="https://user-images.githubusercontent.com/7713399/182634956-7e4afb93-f051-437d-916a-46d7688630f4.png" width="25" height="25"/> My portfolio !! 
+-  <img src="https://user-images.githubusercontent.com/7713399/182634956-7e4afb93-f051-437d-916a-46d7688630f4.png" width="25" height="25"/> My portfolio !! 
 
 
 ### Web
