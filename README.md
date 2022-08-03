@@ -5,7 +5,10 @@
 -  🔭I’m currently learning Java/J2EE Platform
 -  💬 Ask me about **Javacript** **ReactJs** **NodeJs**  **PHP5** **Symfony** **Aws Amazon**
 - ⚡ Fun fact: I master fullstack technologies *front & back*
-- 📫 You can conact me on
-[ceci est un lien](www.google.com]
+- 📫 You can conact me on <a href="https://www.linkedin.com/in/ines-attia/">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742353f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765](https://user-images.githubusercontent.com/7713399/182609117-20f5ca4d-7d6f-4ae6-beeb-b9eb858604c1.svg)(https://www.linkedin.com/in/ines-attia)
+<img src="https://github-readme-stats.vercel.app/api?username=wesines&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
