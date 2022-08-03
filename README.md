@@ -8,18 +8,28 @@
 - 📫 You can conact me on <a href="https://www.linkedin.com/in/ines-attia/">  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 
-![framework-ReactJS](https://user-images.githubusercontent.com/7713399/182624004-5114d5b2-0b31-4deb-9a71-328e2e0ce6ff.png)
+
+
+
+
+![bootstrap-cours](https://user-images.githubusercontent.com/7713399/182625587-9437ae49-fc59-43a3-a22d-ef3ce2f7b140.png)
+
+
+
+
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=wesines&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
 **Web**
-- <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+- <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://user-images.githubusercontent.com/7713399/182625587-9437ae49-fc59-43a3-a22d-ef3ce2f7b140.png"  width="100" height="70"/>
 
 - <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
 
-- <img src="https://user-images.githubusercontent.com/7713399/182624004-5114d5b2-0b31-4deb-9a71-328e2e0ce6ff.png"  width="60" height="70"/> <img src= "https://user-images.githubusercontent.com/7713399/182623290-6a9aa7ed-33b0-4968-aeae-41928d30911f.jpg"  width="60" height="70"/>   <img src="https://user-images.githubusercontent.com/7713399/182624416-06552957-a4f7-4243-adb1-00511cdba26f.png"  width="60" height="70"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+- <img src="https://user-images.githubusercontent.com/7713399/182624004-5114d5b2-0b31-4deb-9a71-328e2e0ce6ff.png"  width="60" height="70"/> <img src= "https://user-images.githubusercontent.com/7713399/182623290-6a9aa7ed-33b0-4968-aeae-41928d30911f.jpg"  width="60" height="70"/>   <img src="https://user-images.githubusercontent.com/7713399/182624416-06552957-a4f7-4243-adb1-00511cdba26f.png"  width="60" height="70"/> <img src="https://user-images.githubusercontent.com/7713399/182625132-df9ae40e-d5d2-410d-bc49-39766334c2f6.png"   width="80" height="70"/>
 
 - <img src="https://user-images.githubusercontent.com/7713399/182615335-87a7dcd7-204f-4a8d-8f2f-a1ec27dfdd1c.svg" width="70" height="40" >  <img src="https://user-images.githubusercontent.com/7713399/182618368-174bdf84-6ff9-4c3a-990f-749806250470.png" width="100" height="40" >
 
