@@ -25,7 +25,7 @@
 
 ### DataBase
 
-<img src="https://user-images.githubusercontent.com/7713399/182627133-0ed34ae2-243b-4fbb-8698-e0efd4d10903.png"  width="100" height="80"/> <img src="https://user-images.githubusercontent.com/7713399/182628068-29d20260-c056-425c-b094-03501045cc92.png" width="100" height="80"/>
+<img src="https://user-images.githubusercontent.com/7713399/182627133-0ed34ae2-243b-4fbb-8698-e0efd4d10903.png"  width="100" height="100"/> <img src="https://user-images.githubusercontent.com/7713399/182628068-29d20260-c056-425c-b094-03501045cc92.png" width="100" height="100"/>
 
 ### Tools
 <img src= "https://user-images.githubusercontent.com/7713399/182631385-d7ff9680-6db9-4097-be0b-838f9228011a.png"  width="80" height="80"/>  <img src= "https://user-images.githubusercontent.com/7713399/182632131-af6d27c7-da0f-4b9f-b058-341b1fea6002.png"  width="120" height="80"/><img src= "https://user-images.githubusercontent.com/7713399/182629760-ec28c8b1-f9f5-4305-a1e2-84603ca6a666.png" width="80" height="80"/>
