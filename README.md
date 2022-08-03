@@ -12,10 +12,6 @@
 
 
 
-![bootstrap-cours](https://user-images.githubusercontent.com/7713399/182625587-9437ae49-fc59-43a3-a22d-ef3ce2f7b140.png)
-
-
-
 
 
 
@@ -25,7 +21,7 @@
 
 
 **Web**
-- <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://user-images.githubusercontent.com/7713399/182625587-9437ae49-fc59-43a3-a22d-ef3ce2f7b140.png"  width="100" height="70"/>
+- <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 - <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
 
@@ -43,9 +39,6 @@
 
 Others :
 
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://user-images.githubusercontent.com/7713399/182619156-9709c78b-ab42-4c4f-978d-ec4689c7367b.png&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src= "https://user-images.githubusercontent.com/7713399/182619156-9709c78b-ab42-4c4f-978d-ec4689c7367b.png">
 
-<img src= "https://github-readme-stats.vercel.app/api?username=nerfic&show_icons=true&theme=dracula">
-
-![firebase](https://user-images.githubusercontent.com/7713399/182619156-9709c78b-ab42-4c4f-978d-ec4689c7367b.png)
 
