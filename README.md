@@ -3,7 +3,7 @@
 - 🌱I like Javscript Language
 - 😄React/Node are the best framework I've ever worked with so far
 -  🔭I’m currently learning Java/J2EE Platform
-- ⚡ Fun fact: I master fullstack technologies : ReactJS,AngularJS/NodeJS, Php/Symfony5, Java8/J2EE , AWS Amazon
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=wesines&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=#4682B4">
+-  💬 Ask me about **Javacript** **ReactJs** **NodeJs**  **PHP5** **Symfony** **Aws Amazon**
+- ⚡ Fun fact: I master fullstack technologies *front & back*
+📫 You can conact me on
+![[linkedin](https://www.linkedin.com/in/ines-attia/)](https://user-images.githubusercontent.com/7713399/182607885-24a2e021-7660-43d6-8c22-60531566e141.png)
