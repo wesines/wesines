@@ -19,7 +19,7 @@
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 
-- ![php](https://user-images.githubusercontent.com/7713399/182615335-87a7dcd7-204f-4a8d-8f2f-a1ec27dfdd1c.svg)
+- ![php](https://user-images.githubusercontent.com/7713399/182615335-87a7dcd7-204f-4a8d-8f2f-a1ec27dfdd1c.svg  width="40" height="40" )
 - 
 **DataBase**
 
