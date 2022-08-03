@@ -9,6 +9,7 @@
 </a>
 
 
+![heroku](https://user-images.githubusercontent.com/7713399/182632875-0937f71c-2f55-4103-8020-461c93f768ee.png)
 
 
 ### Web
@@ -32,7 +33,7 @@
 
 ### Others
 
-<img src= "https://user-images.githubusercontent.com/7713399/182619156-9709c78b-ab42-4c4f-978d-ec4689c7367b.png" width="100" height="40">  <img src="https://user-images.githubusercontent.com/7713399/182632423-93cf4ee0-dac3-4172-955e-552e131a2dcd.pn"  width="90" height="90"/> 
+<img src= "https://user-images.githubusercontent.com/7713399/182619156-9709c78b-ab42-4c4f-978d-ec4689c7367b.png" width="100" height="40">  <img src="https://user-images.githubusercontent.com/7713399/182632423-93cf4ee0-dac3-4172-955e-552e131a2dcd.png"  width="90" height="90"/> 
 
 
 
