@@ -2,10 +2,10 @@
 
 - 🌱I like Javscript Language
 - 😄React/Node are the best framework I've ever worked with so far
--  🔭I’m currently learning Java/J2EE Platform
+-  🔭I’m currently learning Devops Technology
 -  💬 Ask me about **Javacript** , **ReactJs** , **NodeJs** ,  **AngularJS** , **PHP5** , **Symfony** , **Aws Amazon**
 - ⚡ Fun fact: I master fullstack technologies *front & back*
-- 📫 You can conact me on <a href="https://www.linkedin.com/in/ines-attia/">  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+- 📫 You can contact me on <a href="https://www.linkedin.com/in/ines-attia/">  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 
 
