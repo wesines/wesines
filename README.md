@@ -21,22 +21,20 @@
 
 <img src="https://user-images.githubusercontent.com/7713399/182629378-ee5f0d93-2e30-470b-8a25-a79f00bf7c95.png" width="100" height="80" > 
 
+### DEVOPS
+ <img src="https://www.group-dis.com/app/uploads/2022/02/outils_devops_dis-1028x631.jpg"  width="320" height="160"/>
+
 ### DataBase
 
 <img src="https://user-images.githubusercontent.com/7713399/182627133-0ed34ae2-243b-4fbb-8698-e0efd4d10903.png"  width="100" height="100"/> <img src="https://user-images.githubusercontent.com/7713399/182628068-29d20260-c056-425c-b094-03501045cc92.png" width="100" height="100"/>
 <img src="https://avatars.githubusercontent.com/u/201120?s=200&v=4" width="100" height="100"/>
 
-### Tools
+### IDEs
   <img src= "https://user-images.githubusercontent.com/7713399/182631385-d7ff9680-6db9-4097-be0b-838f9228011a.png"  width="80" height="80"/>  <img src= "https://user-images.githubusercontent.com/7713399/182632131-af6d27c7-da0f-4b9f-b058-341b1fea6002.png"  width="120" height="80"/>  <img src= "https://user-images.githubusercontent.com/7713399/182629760-ec28c8b1-f9f5-4305-a1e2-84603ca6a666.png" width="60" height="60"/> 
 
-### Others
+### Tools
   <img src="https://user-images.githubusercontent.com/7713399/182633041-de10796c-f777-4334-9be7-e5091f5ce862.png"  width="120" height="60"/> <img src= "https://user-images.githubusercontent.com/7713399/182619156-9709c78b-ab42-4c4f-978d-ec4689c7367b.png" width="120" height="60">
 
 
 
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=wesines&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
